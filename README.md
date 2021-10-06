@@ -1,2 +1,1 @@
-- App de ejemplo del uso de react typescript y redux
-
+# Example app using react typescript and redux
